@@ -42,7 +42,7 @@ a, a:visited {
 #coming-soon {
 	width: 100%;
 	height: 20%;
-	background: #111;
+	background: #ffffff;
 	position: absolute;
 	z-index: 15;
 }
