@@ -10,7 +10,7 @@ canvas {
 }
 
 #stats {
-	/*display: none;*/
+	display: none;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -29,7 +29,7 @@ a, a:visited {
 	text-decoration: none;
 }
 
-/*
+
 div.dg {
 	display: none;
 }
