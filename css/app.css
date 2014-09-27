@@ -53,7 +53,7 @@ div.dg {
 	background-size: cover;
 	position: absolute;
 	z-index: 15;
-	opacity: 0.6;
+	opacity: 0.5;
 	filter: blur(50px);
 }
 
