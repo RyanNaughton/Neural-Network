@@ -10,10 +10,10 @@ canvas {
 }
 
 #stats {
-	display: none;
-	/*position: absolute;
+	/*display: none;*/
+	position: absolute;
 	top: -100;
-	left: -100;	 */
+	left: -100;
 }
 
 #about {
@@ -64,10 +64,6 @@ a, a:visited {
     vertical-align: bottom;
     display:block;
     margin:auto;
-}
-
-div.dg {
-	display: none;
 }
 
 #coming-soon div {
