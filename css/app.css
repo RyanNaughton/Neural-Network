@@ -58,18 +58,18 @@ div.dg {
 }
 
 #logo_wrapper {
-	height: 80%;
+	height: 75%;
 	margin-top: 1%;
 }
 
 #logo {
-    height: 80%;
+    height: 100%;
     vertical-align: bottom;
     display:block;
     margin:auto;
 }
 
-#coming-soon div {
+#text {
   text-align:center
 }
 
