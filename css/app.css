@@ -12,8 +12,8 @@ canvas {
 #stats {
 	/*display: none;*/
 	position: absolute;
-	top: -100;
-	left: -100;
+	top: 0;
+	left: 0;
 }
 
 #about {
@@ -29,6 +29,10 @@ a, a:visited {
 	text-decoration: none;
 }
 
+/*
+div.dg {
+	display: none;
+}
 
 /* loading animation */
 
@@ -60,7 +64,6 @@ a, a:visited {
 
 #logo {
     height: 80%;
-    
     vertical-align: bottom;
     display:block;
     margin:auto;
