@@ -49,7 +49,7 @@ div.dg {
 	height: 30%;
 	margin-top: 15%; 
 	/* background: #ffffff; 200px; */
-	background-color: white;
+	/* background-color: white; */
 	background-size: cover;
 	position: absolute;
 	z-index: 15;
@@ -70,7 +70,8 @@ div.dg {
 }
 
 #text {
-  text-align:center
+  text-align:center;
+  color: white;
 }
 
 .spinner {
